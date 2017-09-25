@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "计算器", "计算器\计算器.vcproj", "{92E40EB4-49F5-4678-9F4A-A64FCA407EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E40EB4-49F5-4678-9F4A-A64FCA407EA6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{92E40EB4-49F5-4678-9F4A-A64FCA407EA6}.Debug|Win32.Build.0 = Debug|Win32
+		{92E40EB4-49F5-4678-9F4A-A64FCA407EA6}.Release|Win32.ActiveCfg = Release|Win32
+		{92E40EB4-49F5-4678-9F4A-A64FCA407EA6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

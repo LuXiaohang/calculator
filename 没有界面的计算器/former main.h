@@ -1,0 +1,2 @@
+
+void qianzhui(char *shizi);

@@ -1,0 +1,2 @@
+
+int Jiecheng(int n);
