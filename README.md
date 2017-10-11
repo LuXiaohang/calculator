@@ -5,4 +5,4 @@ interface
 Determine the validity of the expression  
 Determine the priority  
 Calculation  
-Extended skills: factorial, power, decimal, negative  
+Extended: factorial, power, decimal, negative number
