@@ -1,2 +1,0 @@
-
-void houzhui(char *shizi);
